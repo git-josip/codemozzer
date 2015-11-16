@@ -1,0 +1,2 @@
+#!/bin/sh
+sudo rm "$APPSDIR/$APPNAME/RUNNING_PID"
